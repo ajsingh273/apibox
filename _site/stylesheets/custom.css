@@ -18,7 +18,18 @@ a:hover {
   border: 1px solid #fff;
 }
 
+.btn-primary {
+color: #ffffff;
+background-color:#156155;
+border-color:#156155;
+}
 
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #18312e;
+  border-color:#18312e;
+
+}
 /*
  * Base structure
  */
